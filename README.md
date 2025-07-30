@@ -105,7 +105,7 @@ Me especializo en la **creación de páginas web dinámicas y funcionales** util
 
 [![Email](https://img.shields.io/badge/Correo-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:maricarmen071799@gmail.com) 
 
-📧 Puedes escribirme a: [mariaejemplo@gmail.com](mailto:maricarmen071799@gmail.com)
+📧 Puedes escribirme a: [maricarmen071799@gmail.com](mailto:maricarmen071799@gmail.com)
 
 
 - 💬 LinkedIn: 
