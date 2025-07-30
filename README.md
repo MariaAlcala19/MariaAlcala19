@@ -1,21 +1,20 @@
- # 👋 ¡Hola, soy Maria Alcala!
+ # 👋 ¡Hola, Soy Maria Alcala!
  ![Portada](https://github.com/MariaAlcala19/MariaAlcala19/blob/main/portada%20gith%20hub.png)
 
 
 
-🎓 
+ 
 <p align="center">
-  📚 Estudiante de <strong>Arquitectura de Plataformas y Recursos TIC</strong> <br>
+  🎓 Estudiante de <strong>Arquitectura de Plataformas y Recursos TIC</strong> <br>
   💻 Apasionada por el <strong>diseño web</strong>, <strong>aplicaciones móviles</strong> y la <strong>ciencia de datos</strong> <br>
-  📊 Explorando el mundo de <strong>Data Analytics</strong> y <strong>Machine Learning</strong> <br>
-  🎨 Creativa en el desarrollo con tecnologías como <strong>Python, Flutter, Django, R, Tableau, HTML, CSS</strong> y más. <br>
+ 
 </p>
 ---
 
 
 ## 👩‍💻 ¿Qué me apasiona?
 
-Me especializo en la **creación de páginas web dinámicas y funcionales** utilizando herramientas modernas como:
+ **creación de páginas web dinámicas y funcionales** utilizando herramientas modernas como:
 
 - 🐍 **Python + Django** para backend robusto
 - 🎨 **HTML, CSS y JavaScript** para diseños responsivos
