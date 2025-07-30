@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Maria Alcala!
+ # 👋 ¡Hola, soy Maria Alcala!
 
 🎓 Soy Estudiante de informática apasionada por el **diseño web**, la **programación full stack**, y el desarrollo de **sistemas de ventas**.
 
@@ -103,7 +103,10 @@ Me especializo en la **creación de páginas web dinámicas y funcionales** util
 
 - ### 📬 Contacto
 
-[![Email](https://img.shields.io/badge/Correo-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:maricarmen071799@gmail.com)
+[![Email](https://img.shields.io/badge/Correo-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:maricarmen071799@gmail.com) 
+
+📧 Puedes escribirme a: [mariaejemplo@gmail.com](mailto:maricarmen071799@gmail.com)
+
 
 - 💬 LinkedIn: 
 https://www.linkedin.com/in/maria-alcalareyes19/
