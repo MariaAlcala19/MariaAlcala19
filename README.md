@@ -100,9 +100,11 @@ Me especializo en la **creación de páginas web dinámicas y funcionales** util
 ![Wondershare](https://img.shields.io/badge/Wondershare-00A4DC?style=flat&logo=wondershare&logoColor=white)
 
 
-## 🌐 Conectemos
 
-- 📧 Email: mailto:maricarmen071799@gmail.com
+- ### 📬 Contacto
+
+[![Email](https://img.shields.io/badge/Correo-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:maricarmen071799@gmail.com)
+
 - 💬 LinkedIn: 
 https://www.linkedin.com/in/maria-alcalareyes19/
 ---
