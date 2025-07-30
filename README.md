@@ -1,16 +1,23 @@
 # 👋 ¡Hola, soy Maria Alcala!
 
-🎓 Soy estudiante de informática apasionada por el **diseño web**, la **programación full stack**, y el desarrollo de **sistemas de ventas**.
+🎓 Soy Estudiante de informática apasionada por el **diseño web**, la **programación full stack**, y el desarrollo de **sistemas de ventas**.
 
 ---
 
-## 🚀 Tecnologías y herramientas que utilizo
 
-- 🌐 **Frontend:** HTML, CSS, JavaScript
-- ⚙️ **Backend:** PHP, Python
-- 🧠 **Bases de datos:** MySQL, PostgreSQL
-- 📱 **Mobile:** Flutter (en aprendizaje)
-- 🎨 Me encanta crear interfaces modernas, dinámicas y responsivas
+## 👩‍💻 ¿Qué me apasiona?
+
+Me especializo en la **creación de páginas web dinámicas y funcionales** utilizando herramientas modernas como:
+
+- 🐍 **Python + Django** para backend robusto
+- 🎨 **HTML, CSS y JavaScript** para diseños responsivos
+- 💾 **MySQL y PostgreSQL** para bases de datos relacionales
+- 💙 **Flutter + Dart** para apps móviles modernas
+- 📊 **R + Tableau** para análisis y visualización de datos
+- ⚙️ **PHP** para sistemas de ventas y formularios web
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
 ---
 
@@ -49,8 +56,7 @@
 
 ## 🌐 Conectemos
 
-- 📧 Email: maricarmen071799@gmail.com
-- 🧑‍💻 Portafolio web: 
+- 📧 Email: mailto:maricarmen071799@gmail.com
 - 💬 LinkedIn: 
 https://www.linkedin.com/in/maria-alcalareyes19/
 ---
