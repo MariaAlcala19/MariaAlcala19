@@ -1,5 +1,6 @@
  # 👋 ¡Hola, soy Maria Alcala!
- ![Nombre descriptivo](https://github.com/MariaAlcala19/MariaAlcala19/blob/main/portada gith hub.png)
+ ![Portada](https://github.com/MariaAlcala19/MariaAlcala19/blob/main/portada%20gith%20hub.png)
+
 
 
 🎓 Soy Estudiante de informática apasionada por el **diseño web**, la **programación full stack**, y el desarrollo de **sistemas de ventas**.
